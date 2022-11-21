@@ -1,6 +1,6 @@
 # AAM Project: JS
 
 This website was built strictly with HTML, CSS, and Javascript.
-It is deployed to [Replit](https://replit.com/@lacymorrow/project-004#index.html).
+It is deployed to [Github Pages](https://pages.github.com/).
 
-## [Live Demo](https://project-004--lacymorrow.repl.co/)
+## [Live Demo](https://aam-institute.github.io/project-003/)
